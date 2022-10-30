@@ -1,0 +1,51 @@
+.container {
+  width: 100%;
+}
+
+.img-cls {
+  display: flex;
+  justify-content: center;
+}
+.input {
+  width: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  padding: 5px;
+}
+
+.google1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.googleww {
+  display: flex;
+  text-align: center;
+  gap: 5px;
+}
+.google-btn {
+  display: flex;
+  gap: 10px;
+}
+.google2 {
+  background-color: rgb(172, 176, 247);
+  width: 350px;
+}
+.google3 {
+  background-color: rgb(166, 247, 220);
+  width: 350px;
+}
+
+.google4 {
+  background-color: rgb(158, 221, 244);
+  width: 350px;
+}
+.googleff{
+    display: flex;
+    text-align: center;
+}
